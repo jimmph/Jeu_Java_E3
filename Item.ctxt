@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ La\ classe\ Item\ permet\ au\ joueur\ d'acc\u00E9der\ \u00E0\ diff\u00E9rents\ objets\ dans\ le\ jeu,\r\n\ qui\ lui\ seront\ utiles\ pour\ avancer\ et\ terminer\ le\ jeu.\r\n\r\n\ @author\ Pham\ Jimmy\r\n\ @version\ \ 7.43\r\n
+comment1.params=pName\ pDescription\ pWeight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Item\r\n\ @param\ pName\ correspond\ au\ nom\ de\ l'item\ \r\n\ @param\ pDescription\ correspond\ \u00E0\ la\ description\ de\ l'item\r\n\ @param\ pWeight\ correspond\ au\ poids\ de\ l'item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ le\ nom\ de\ l'item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ @return\ la\ description\ de\ l'item\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ @return\ le\ poids\ de\ l'item\r\n
+comment5.params=
+comment5.target=java.lang.String\ getLongItemDescription()
+comment5.text=\r\n\ @return\ le\ nom,\ la\ description\ et\ le\ poids\ de\ l'item.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getItemDescription()
+comment6.text=\r\n\ @return\ le\ nom\ et\ le\ poids\ de\ l'item.\r\n
+numComments=7

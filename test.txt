@@ -1,0 +1,38 @@
+take Beamer
+charge Beamer
+go East
+go North
+back
+back
+go East
+go East
+take BluntSword
+back
+go South
+drop BluntSword
+go North
+go West
+go East
+go North
+look
+go North
+go North
+go West
+take MagicCookie
+eat MagicCookie
+go East
+go East
+take PropulsionMotor
+take TitanicSword
+fire Beamer
+drop PropulsionMotor
+drop TitanicSword
+help 
+look
+back
+go East
+go North
+go East
+go Up
+go Down
+quit
